@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**adrianroman1/adrianroman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Adrian Roman 👋
 ### Senior Full Stack Developer | IT Management | SDET Expert
 
@@ -18,7 +13,3 @@ With over 15 years of experience in the IT industry (Kaspersky, Ericsson), I spe
 - **Cloud/DevOps:** SAP BTP, Azure, AWS, Docker, Kubernetes (Kyma), GitHub Actions.
 - **Observability/Testing:** Prometheus, Micrometer, Selenium, JMeter, JUnit.
 
----
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com) | [Email](mailto:adrianroman304@gmail.com)
-
--->
